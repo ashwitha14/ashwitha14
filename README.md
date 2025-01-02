@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Dheeraj Krishna</h1>
+<h1 align="center">Hi 👋, I'm Ashwitha Maloth</h1>
 
-- 🔭 I’m currently working With [NAC BOTS](https://t.me/nacbots)
+- 🔭 I’m currently working With [CMS IARE](https://t.me/cms_iare_bot)
 
 - 🌱 I’m currently learning **Web Development**
 
-- Our bots [Click here](https://t.me/nacbots/1)
-
-- 👨‍💻 All of my projects are available at [My Repos](https://github.com/dheerxj)
+- 👨‍💻 All of my projects are available at [My Repos](https://github.com/ashwitha14)
 
 - 📫 How to reach me [Telegram](https://t.me/dheeraj2324)
  
@@ -22,7 +20,7 @@
 
  <p align="center"> 
 
-<a href="https://instagram.com/dheeraj_2324"><img src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/instagram-01.svg" alt="371907300-INSTAGRAM-ICON-TRANSPARENT-1080"
+<a href="https://instagram.com/a_wish_hat"><img src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/instagram-01.svg" alt="371907300-INSTAGRAM-ICON-TRANSPARENT-1080"
  hight="53" align="center" width="50" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>
  </a>
 </p>  
