@@ -19,7 +19,6 @@
 
 
  <p align="center"> 
-
 <a href="https://instagram.com/a_wish_hat"><img src="https://github.com/nikhileashy/nikhileashy/blob/main/icons/instagram-01.svg" alt="371907300-INSTAGRAM-ICON-TRANSPARENT-1080"
  hight="53" align="center" width="50" border="0"></a><br /><a target='_blank' href='https://freeonlinedice.com/'>
  </a>
@@ -39,19 +38,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=dheerxj&theme=onedark"/>
 </p>
 
-<details>
-<summary>🔹 More...</summary>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dheerxj/dheerxj/main/github-metrics.svg" alt="metrix"></center>
-</p>
-<details>
- <summary>Contribution Snake 🐍</summary>
- <p align="center">
-  <img src="https://github.com/nikhileashy/nikhileashy/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-</details>
-</details>
+
+
 
 
 
